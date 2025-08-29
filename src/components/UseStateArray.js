@@ -21,10 +21,7 @@ function UseStateArray() {
              ))
             }
             
-        </ul>
-     
-        
-      
+        </ul>        
     </div>
   )
 }
